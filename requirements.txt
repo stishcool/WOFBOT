@@ -1,0 +1,3 @@
+aiogram
+aiogram[uvloop]
+python-dotenv
